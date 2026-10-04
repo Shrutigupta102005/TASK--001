@@ -5,7 +5,8 @@
 
 ---
 
-## TASK-002 UPDATE TASK-001 Introduce different discount strategies
+## TASK-002 UPDATE TASK-001 
+* **Introduce different discount strategies**
 * Learning ➡️ Interface practical use
 * Learning ➡️ OOPS 
 * Learning ➡️ Reading unfamiliar codebase
